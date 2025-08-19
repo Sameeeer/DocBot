@@ -61,8 +61,7 @@ python manage.py runserver
 
 2️⃣ Start Ollama (Mistral model)
 
-Make sure Ollama
- is installed. Then pull and run Mistral:
+Make sure Ollama is installed. Then pull and run Mistral:
 
 ollama pull mistral
 ollama run mistral
